@@ -1,0 +1,11 @@
+Image Data ID,Subject,Group,Sex,Age,Visit,Modality,Description,Type,Acq Date,Format,Downloaded,File Path
+I72499,073_S_0386,CN,F,74,m12,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,5/31/2007,NiFTI,,data/ADNI_073_S_0386_MR_MPR__GradWarp__B1_Correction__N3__Scaled_Br_20070911114656253_S33403_I72499.nii.gz
+I62666,013_S_1275,MCI,F,79,sc,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,2/22/2007,NiFTI,,data/ADNI_013_S_1275_MR_MPR__GradWarp__B1_Correction__N3__Scaled_Br_20070727183904208_S27069_I62666.nii.gz
+I78912,029_S_0999,AD,M,72,m06,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,9/17/2007,NiFTI,,data/ADNI_029_S_0999_MR_MPR__GradWarp__B1_Correction__N3__Scaled_Br_20071027175334911_S39410_I78912.nii.gz
+I88417,029_S_0843,CN,M,72,m12,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,11/19/2007,NiFTI,,data/ADNI_029_S_0843_MR_MPR__GradWarp__B1_Correction__N3__Scaled_Br_20080124151517525_S42904_I88417.nii.gz
+I92595,116_S_0834,MCI,M,65,m12,MRI,MPR; GradWarp; N3; Scaled,Processed,11/27/2007,NiFTI,,data/ADNI_116_S_0834_MR_MPR__GradWarp__N3__Scaled_Br_20080225182806676_S43077_I92595.nii.gz
+I68788,099_S_0533,CN,F,82,m12,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,5/16/2007,NiFTI,,data/ADNI_099_S_0533_MR_MPR__GradWarp__B1_Correction__N3__Scaled_Br_20070819141502636_S32323_I68788.nii.gz
+I105750,036_S_1240,MCI,F,68,m12,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,3/04/2008,NiFTI,,data/ADNI_036_S_1240_MR_MPR__GradWarp__B1_Correction__N3__Scaled_Br_20080515115856563_S49622_I105750.nii.gz
+I119532,133_S_0638,MCI,M,84,m12,MRI,MPR; GradWarp; B1 Correction; N3; Scaled_2,Processed,9/07/2007,NiFTI,,data/ADNI_133_S_0638_MR_MPR__GradWarp__B1_Correction__N3__Scaled_2_Br_20081007155452275_S39021_I119532.nii.gz
+I34999,018_S_0142,MCI,M,80,m06,MRI,MPR; ; N3; Scaled,Processed,8/25/2006,NiFTI,,data/ADNI_018_S_0142_MR_MPR____N3__Scaled_Br_20070101212601695_S18255_I34999.nii.gz
+I119300,123_S_0094,AD,F,71,sc,MRI,MPR; ; N3; Scaled_2,Processed,12/28/2005,NiFTI,,data/ADNI_123_S_0094_MR_MPR____N3__Scaled_2_Br_20081006155158989_S10712_I119300.nii.gz
