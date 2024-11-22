@@ -2,4 +2,4 @@
 
 ----------------------------------------------------------------------------------------------------------------------
 
-To be updated soon..
+Run the code blocks present in BRAIN-ViT_inference.ipynb with appropriate paths.
